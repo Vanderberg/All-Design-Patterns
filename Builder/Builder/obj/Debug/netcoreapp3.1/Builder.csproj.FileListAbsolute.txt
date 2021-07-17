@@ -1,0 +1,13 @@
+C:\Dotnet\All-Design-Patterns-of-Creation\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Dotnet\All-Design-Patterns-of-Creation\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Dotnet\All-Design-Patterns-of-Creation\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Dotnet\All-Design-Patterns-of-Creation\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Dotnet\All-Design-Patterns-of-Creation\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Dotnet\All-Design-Patterns-of-Creation\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Dotnet\All-Design-Patterns-of-Creation\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+C:\Dotnet\All-Design-Patterns-of-Creation\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Dotnet\All-Design-Patterns-of-Creation\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Dotnet\All-Design-Patterns-of-Creation\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+C:\Dotnet\All-Design-Patterns-of-Creation\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Dotnet\All-Design-Patterns-of-Creation\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\Dotnet\All-Design-Patterns-of-Creation\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache

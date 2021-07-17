@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dotnet\\All-Design-Patterns-of-Creation\\FactoryMethod\\FactoryMethod\\FactoryMethod.csproj",
-      "projectName": "FactoryMethod",
-      "projectPath": "C:\\Dotnet\\All-Design-Patterns-of-Creation\\FactoryMethod\\FactoryMethod\\FactoryMethod.csproj",
+      "projectUniqueName": "C:\\Dotnet\\All-Design-Patterns-of-Creation\\Builder\\Builder\\Builder.csproj",
+      "projectName": "Builder",
+      "projectPath": "C:\\Dotnet\\All-Design-Patterns-of-Creation\\Builder\\Builder\\Builder.csproj",
       "packagesPath": "C:\\Users\\vanderberg.nunes\\.nuget\\packages\\",
-      "outputPath": "C:\\Dotnet\\All-Design-Patterns-of-Creation\\FactoryMethod\\FactoryMethod\\obj\\",
+      "outputPath": "C:\\Dotnet\\All-Design-Patterns-of-Creation\\Builder\\Builder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vanderberg.nunes\\AppData\\Roaming\\NuGet\\NuGet.Config"
