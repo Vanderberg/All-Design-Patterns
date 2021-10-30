@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Gn6Iodqa1I4ThuvOVOWNat5LODtC9czIgSK6r0yDcW19zagNj5OyU563i7NP4lfMmXCb40uR93wSaokxFbq3lQ==",
+  "dgSpecHash": "yumSqqJYtI4vNh6Jm5scrCAExwRRvSbrTTXzqhMYOrYL7Z2HNAh72dTPFhGFlh5n3Gw6kUErWNvVaGbIR28zWw==",
   "success": true,
   "projectFilePath": "C:\\Dotnet\\All-Design-Patterns\\Creational\\AbstractFactory\\AbstractFactory\\AbstractFactory.csproj",
   "expectedPackageFiles": [],
