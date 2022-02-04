@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MYTteOzWAgPh5FfjFZv+bIyzdkohgwhM2pNVfG/gTrYvwe2uMDOamjOnMT9v5hc8sLY0VWeQWTYRLzbczyNcoQ==",
+  "dgSpecHash": "jH0cag4Mc7g5rRURsOFkrmrDRZ5viLN7IWeAoZNwkXJsPbilkrarjdRu9owJBUPbfAhqrNGRplbOkLLsYLSZKw==",
   "success": true,
   "projectFilePath": "C:\\Dotnet\\All-Design-Patterns\\Creational\\FactoryMethod\\FactoryMethod\\FactoryMethod.csproj",
   "expectedPackageFiles": [],
