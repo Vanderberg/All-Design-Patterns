@@ -14,6 +14,7 @@ namespace Memento
 
             originator.State = "OFF";
             originator.SetMemento(caretaker.Memento);
+            
         }
     }
 }
